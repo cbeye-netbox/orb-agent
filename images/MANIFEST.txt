@@ -1,0 +1,22 @@
+orb-agent-pro images for linux/amd64, fetched 2026-11-10T16:05:54Z
+Load on the target host with: ./load.sh
+
+[quay.io/netboxlabs/orb-agent-pro:develop]
+platform:  linux/amd64
+digest:    quay.io/netboxlabs/orb-agent-pro@sha256:38915717a1b3a21d7e8c7d06f9098c5a7fb3e7c81cae5cc897aafcc7c545a16a quay.io/netboxlabs/orb-agent-pro@sha256:aaa736c477e7f8bf3b117b383aebe69a741315e09cc8530230b1210f8190c4e3
+orb-agent: orb-agent 2.17.0-5e93056
+package:   nbl_cisco_catalyst_center 2.19.1
+package:   netboxlabs_diode_sdk 1.14.3
+package:   netboxlabs_orb_worker 1.99.0.dev0
+archive:   orb-agent-pro_develop_amd64.tar.gz (435617548 bytes, 5 parts of 95m)
+sha256:    7bb7768eec07ab2fd83f9f2fdc885e8b397b1e9ac56ccca40c0b6a0c168e07e0
+
+[quay.io/netboxlabs/orb-agent-pro:latest]
+platform:  linux/amd64
+digest:    quay.io/netboxlabs/orb-agent-pro@sha256:630230f155f5a6f5e537c6792a3787b53b4b0a3690ea2bacfa54cff8abf4e202 quay.io/netboxlabs/orb-agent-pro@sha256:cfde4f015674c7072d38e3470ab9dced7f8c3860da5fcd3de11deb300d5d625e
+orb-agent: orb-agent 2.17.0
+package:   nbl_cisco_catalyst_center 2.19.0
+package:   netboxlabs_diode_sdk 1.14.3
+package:   netboxlabs_orb_worker 1.99.0.dev0
+archive:   orb-agent-pro_latest_amd64.tar.gz (427476896 bytes, 5 parts of 95m)
+sha256:    631514faef66c1338893b33a66be247b42054023f703755713b88b7505518eb1

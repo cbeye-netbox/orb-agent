@@ -1,0 +1,3 @@
+# Rejoined archives are over 100 MiB; GitHub rejects them
+images/*.tar.gz
+.DS_Store
